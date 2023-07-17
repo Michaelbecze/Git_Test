@@ -1,3 +1,4 @@
-name = input ("what is your name?")
-
+name = input ("what is your name? ")
+color = input("what is your favorite color? ")
 print(f"Hello {name}! ")
+

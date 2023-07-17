@@ -1,3 +1,3 @@
 name = input ("what is your name?")
 
-Ex = ("!")
+print(f"Hello {name} ! ")
